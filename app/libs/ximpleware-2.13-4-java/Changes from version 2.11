@@ -1,0 +1,36 @@
+/* 
+ * Copyright (C) 2002-2016 XimpleWare, info@ximpleware.com
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+ */
+
+Changes from Version 2.12 (06/2016)
+
+New features: 
+   * New Core Functions-- Added case insensitive version of various string token comparison functions.
+
+   * LC depth default set to 5 from 3
+
+   * Imprve XPath's string length function to fully conforms to DOM"s string notion
+
+   * Added byte segments operations (union, exclusion, intersection) when dealing with two overlapping segments
+
+   * Added fine-tuned whitespace trimming and expanding functions
+
+   * Optimized NodeRecorder to make it more spacially efficient without sacrificing performance
+
+   * Optimzed XPath evaluation performance by performing deep static analysis
+
+   * Varius bug fixes in XPath evaluation, parsing, navigation

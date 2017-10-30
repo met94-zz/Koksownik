@@ -1,0 +1,3 @@
+XimpleWare, info@ximpleware.com - for VTD-XML jar library - licensed under GNU GENERAL PUBLIC LICENSE Version 2, June 1991
+The Apache Software Foundation - for Apache Commons IO jar library - licensed under Apache License, Version 2.0
+Google - for Material design icons - licensed under Apache License, Version 2.0

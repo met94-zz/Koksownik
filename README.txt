@@ -1,0 +1,1 @@
+Koksownik is licensed under GNU GENERAL PUBLIC LICENSE Version 3 (see LICENSE) and uses third party libraries that are distributed under their own terms (see LICENSE-3RD-PARTY.txt)

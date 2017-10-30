@@ -18,4 +18,4 @@ The Apache Software Foundation - for Apache Commons IO jar library - licensed un
 Google - for Material design icons - licensed under Apache License, Version 2.0<br />
 
 # License
-Koksownik is licensed under GNU GENERAL PUBLIC LICENSE Version 3 (see [LICENSE]LICENSE) and uses third party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.txt]LICENSE-3RD-PARTY.txt)
+Koksownik is licensed under GNU GENERAL PUBLIC LICENSE Version 3 (see [LICENSE](./LICENSE)) and uses third party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.txt](./LICENSE-3RD-PARTY.txt))
